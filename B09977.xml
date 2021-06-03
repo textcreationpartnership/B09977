@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation anent the stenting unfree-traders</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09977</idno><idno type="EEBO-CITATION">69648898</idno>
+  <idno type="VID">185058</idno>
+  <idno type="EEBO-PROQUEST">2240858930</idno>
+  
+            <idno type="STC">Wing S1692</idno>
+            <idno type="STC">ESTC R183407</idno>
+            <idno type="OCLC">69648898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185058)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation anent the stenting unfree-traders</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, printer to the King's most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trade regulation --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Commerce --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1689-1745.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185058:1"/>
+            <head>
+               <figure>
+                  <head>W R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>PROCLAMATION</hi> Anent the Stenting Unfree-Traders.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith: To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers of Our privy Council, Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially constitute, Greeting:</salute>
+            </opener>
+            <p>Forasmuch, as in lieu of the Acts of Parliament against Unfree-Taders, and to prevent the Pains that they either had, or might have incurred, <hi>First,</hi> the Royal Burrows, and then the Estates of Parliament, did Offer a free Communication of Trade to the Burghs of Barony, Regality, and others, they paying the Compositions that should be Agreed to betwixt them and Mr. <hi>John Buchan,</hi> who stands Engaged to Relieve the saids Burghs Royal of Ten Pounds of the Hundred Pounds of their Taxt-Roll, which being only the Tenth Part of the Burden of the saids Royal Burghs, would be very inconsiderable amongst the whole Burghs of Barony and Regality, and other Unfree-Traders of the Kingdom: Notwithstanding whereof, many of the Unfree-Burghs and Traders, pretending, that the Proportions laid on them are Unequal, have not payed in the same; For Remedy whereof, the said Mr. <hi>John Buchan</hi> being desirous that these Proportions may be laid on with all possible Equality, and that the saids Unfree-Traders may be Relieved of the Pains of Law, either already Incurred, or which they might Incur, hath Applyed to the Lords of Our privy Council, that due Intimation may be made to all concerned of the Ease, that he is willing to grant to all Unfree-Traders: And We Considering, that the making the said Project effectual, will likewise tend to the Promoting of Trade in general throughout the King<g ref="char:EOLhyphen"/>dom; Therefore, We with Advice of the Lords of our privy Council, have thought fit that a Proclamation be Emitted in Our Name and Au<g ref="char:EOLhyphen"/>thority, Intimating to the haill Shires of the Kingdom the foresaid Benefit now Offered, and for Ordaining the respective Commissioners of Supply and Excise within the saids Shires, to Meet at their Head-Burghs, at the Days after-mentioned, to hear and consider the said Mr. <hi>John Buchan</hi>'s Offers, and to Agree to the same, as they shall see cause for Liberty of Trade, and Relief of their Unfree-Traders; and if they shall Agree, to accept his Offers, to divide the saids respective <hi>Quota</hi>'s of the foresaid Ten Pounds, upon the Burghs of Barony and Regality, and other Unfree-Traders within their Bounds, to the effect that the saids Burghs of Barony and Regality, and other Unfree-Traders may freely accept of, and acquiesce to the said Division, and agree to make Payment accordingly, as they shall think fit, with this Certification allanerly, that if the saids Offers shall not take effect in the Method here propsed, the saids haill Unfree-Traders who have not already Agreed with the said Mr. <hi>John Buchan,</hi> shall be proceeded against, conform to the Acts of Parliament against Unfree-Traders, and the Pains thereof exacted upon them with all rigour. <hi>Our Will is herefore,</hi> and We Charge you strictly, and Command, that incontinent these Our Letters seen, ye pass to the Mercat-Cross of <hi>Edinburgh,</hi> and remanent Mercat-Crosses of the haill Head-Burghs within this Kingdom, and there in Our Name and Authority, make Intimation of the Premisses; and als that ye in Our Name and Authority, Command and Charge the foresaids Commissioners of Supply and Excise, to Meet at their respective Head-Burghs: These upon the South-side of the Water of <hi>Tay,</hi> upon the First Day of <hi>April;</hi> and these upon the North-side of <hi>Tay,</hi> upon the Twentieth Day of the famine Month, to consider and hear the said Mr. <hi>John Buchan</hi> his Offers, and to Agree to the same, as they shall see cause for Liberty of Trade, and Relief of their Unfree-Traders; and if they shall Agree to accept his Offers, to divide the saids respective <hi>Quota</hi>'s of the foresaid Ten Pounds, upon the Burghs of Barony and Regality, and other Unfree-Traders within their Bounds, to the effect that the saids Burghs of Barony and Regality, and other Unfree-Traders, may freely accept of and acquiesce to the said Division, and Agree to make Payment accordingly, as they shall think fit; with this Certification, that if the saids Offers shall not take effect in the Method here proposed, the saids haill Unfree-Traders who have not already Agreed with the said Mr. <hi>John Buchan,</hi> shall be proceeded against, conform to the Acts of Parliament against Unfree-Traders, and the Pains thereof exacted upon them with all rigour. Likeas, We hereby Require and peremptorly Command, all inferior Magistrats within the Kingdom, that they administrat Justice speedily and impartially to the said Mr. <hi>John Buchan,</hi> against the haill foresaids Unfree-Traders, who shall refuse to accept of the Offer hereby made to them, as they will be Answerable on their highest peril. And Ordains these Presents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi>
+                  <date>the Eighteenth Day of <hi>February.</hi> And of Our Reign the Eighth Year 1697.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilii. <hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Printer to the King's most Excellent Majesty. 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
